@@ -1,4 +1,4 @@
-# Tableau Dashboard Portfolio
+# Tableau Dashboard Sales Performance
 
 ## Overview
 This project showcases a dynamic Tableau dashboard focusing on **Sales Performance** for 2022. The dashboard provides insights into **total sales**, **profit**, and **quantity sold**, as well as an in-depth analysis of sales and profit by subcategory. It also tracks weekly trends to offer a detailed view of business performance over time.
